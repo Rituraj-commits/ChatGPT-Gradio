@@ -10,15 +10,15 @@ ChatGPT-Gradio is a project that uses the OpenAI API and Gradio library to gener
 ## Installation
 1. Clone the repository to your local machine:
 
-```https://github.com/Rituraj-commits/ChatGPT-Gradio.git```
+    ```https://github.com/Rituraj-commits/ChatGPT-Gradio.git```
 
 2. Install the required packages using pip:
    
-```pip install -r requirements.txt```
+    ```pip install -r requirements.txt```
 
 3. Add your OpenAi API key to the config.py file:
    
-```OPENAI_API_KEY = 'your_api_key_here'```
+    ```OPENAI_API_KEY = 'your_api_key_here'```
 
 ## Usage
 To start the application, run the following command in your terminal:
